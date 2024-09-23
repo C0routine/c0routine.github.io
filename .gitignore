@@ -12,3 +12,5 @@
 # Flutter Files
 /.idea/
 /.dart_tool/
+
+.DS_Store
