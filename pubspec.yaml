@@ -44,6 +44,8 @@ dependencies:
 
   # Code Generation
   freezed_annotation: ^2.4.4
+
+  # Debugging
   logger: ^2.4.0
 
 dev_dependencies:
