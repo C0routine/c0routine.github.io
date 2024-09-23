@@ -1,8 +1,8 @@
 import 'package:blog/app.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_web_plugins/flutter_web_plugins.dart' as web_plugins;
+import 'package:flutter_web_plugins/flutter_web_plugins.dart';
 
 void main() {
-  web_plugins.usePathUrlStrategy();
+  usePathUrlStrategy();
   runApp(const BlogApp());
 }
