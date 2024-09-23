@@ -188,6 +188,12 @@
       "languageVersion": "3.3"
     },
     {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///Users/casan/fvm/versions/3.24.3/packages/flutter_web_plugins",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
       "name": "freezed",
       "rootUri": "file:///Users/casan/.pub-cache/hosted/pub.dev/freezed-2.5.7",
       "packageUri": "lib/",
@@ -210,6 +216,12 @@
       "rootUri": "file:///Users/casan/.pub-cache/hosted/pub.dev/glob-2.1.2",
       "packageUri": "lib/",
       "languageVersion": "2.19"
+    },
+    {
+      "name": "go_router",
+      "rootUri": "file:///Users/casan/.pub-cache/hosted/pub.dev/go_router-14.2.7",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
     },
     {
       "name": "graphs",
@@ -476,7 +488,7 @@
       "languageVersion": "3.5"
     }
   ],
-  "generated": "2024-09-23T12:07:05.558534Z",
+  "generated": "2024-09-23T12:10:38.648871Z",
   "generator": "pub",
   "generatorVersion": "3.5.3",
   "flutterRoot": "file:///Users/casan/fvm/versions/3.24.3",
