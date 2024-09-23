@@ -8,3 +8,7 @@
 
 # Build Files
 /build/
+
+# Flutter Files
+/.idea/
+/.dart_tool/
